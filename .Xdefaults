@@ -1,0 +1,66 @@
+URxvt*foreground:           #cccccc
+URxvt*background:           #2d2d2d
+URxvt*iso14755:             false
+URxvt*iso14755_52:          false
+URxvt*geometry:             90x30
+URxvt*transparent:          false
+URxvt*urgentOnBell:         true
+URxvt*loginShell:           true
+URxvt*saveLines:            100
+URxvt*internalBorder:       3
+URxvt*lineSpace:            0
+URxvt*cursorUnderline:      true
+URxvt*cursorBlink:          true
+URxvt*allow_bold:           false
+URxvt*font:                 xft:Inconsolata for Powerline:size=13
+URxvt*boldFont:             xft:Inconsolata for Powerline:size=13
+URxvt*letterSpace:          -1
+
+xvt.perl-ext-common:        default,matcher
+URxvt.urlLauncher:          iceweasel
+URxvt.matcher.button:       1
+
+URxvt*scrollBar:            false
+URxvt*intensityStyles:      false
+URxvt*fading:               15
+URxvt*shading:              40
+URxvt*inheritPixmap:        true
+
+! Black / Grey
+URxvt*color0:       #000000
+URxvt*color8:       #000000
+!URxvt*color8:       #999999
+
+! Red / Bright Red
+URxvt*color1:       #f2777a
+URxvt*color9:       #f2777a
+!URxvt*color9:       #c82829
+
+! Green + Bright Green
+URxvt*color2:      #99cc99
+URxvt*color10:     #99cc99
+!URxvt*color10:     #718c00
+
+! Yellow (Orange) + Bright Yellow (Yellow)
+URxvt*color3:      #f99157
+URxvt*color11:     #f99157
+!URxvt*color11:     #ffcc66
+
+! Blue + Bright Blue
+URxvt*color4:      #6699cc
+URxvt*color12:     #6699cc
+
+! Magenta (Purple) + Bright Magenta
+URxvt*color5:      #cc99cc
+URxvt*color13:     #cc99cc
+!URxvt*color13:     #8959a8
+
+! Cyan (Aqua) + Bright Cyan
+URxvt*color6:     #66cccc
+URxvt*color14:    #66cccc
+!URxvt*color14:    #3e999f
+
+! Light Grey (Selection) + White (Current Line)
+URxvt*color7:      #515151
+URxvt*color15:     #515151
+!URxvt*color15:     #393939
